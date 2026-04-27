@@ -12,14 +12,13 @@
 ### **SENA** _(2025 - Actualidad)_
 - Python
 - Java Script
-- Typescript.
 - HTML
 
 
 
 
 ## 🎓 Educación
-### **SENA** _(2025 - Actualidad)_
+### **SENA** _(2026 - Actualidad)_
 - Aprendiz de Analisis y Desarrollo de Software
 - Fernando Mazuera Villegas (2024)
   - Tecnico en Instalación de Redes Eléctricas Domiciliarias.
