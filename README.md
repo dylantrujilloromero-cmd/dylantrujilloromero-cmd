@@ -9,7 +9,7 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **SENA** _(2025 - Actualidad)_
+### **SENA** _(2026 - Actualidad)_
 - Python
 - Java Script
 - HTML
