@@ -1,16 +1,33 @@
-## Hi there 👋
+# CV_DylanSantiagoTrujilloRomero
+# Hoja de Vida
 
-<!--
-**dylantrujilloromero-cmd/dylantrujilloromero-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dylan Santiago Trujillo Romero
+**Profesión:** Analista y Desarrollador de Software
 
-Here are some ideas to get you started:
+## 📞 Contacto
+- **Email:** [dylantrujillo.romero@gmail.com](mailto:dylantrujillo.romero@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Experiencia Laboral
+### **SENA** _(2025 - Actualidad)_
+- Python
+- Java Script
+- Typescript.
+- HTML
+
+
+
+
+## 🎓 Educación
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz de Analisis y Desarrollo de Software
+- Fernando Mazuera Villegas (2024)
+  - Tecnico en Instalación de Redes Eléctricas Domiciliarias.
+  - Bachiller. 
+
+## 💡 Habilidades
+- **Soy una persona motivada**
+- **Siempre mantengo una buena disposicion para aprender y colaborar**
+- **Analiso los problemas y busco la solución más acorde**
+
+
