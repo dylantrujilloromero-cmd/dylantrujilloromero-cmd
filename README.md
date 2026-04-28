@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="IMG_GIT/Teclado.gif">
+</div>
+
 # CV_DylanSantiagoTrujilloRomero
 # Hoja de Vida
 
