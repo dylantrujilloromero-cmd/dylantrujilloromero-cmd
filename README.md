@@ -1,9 +1,12 @@
 <div align="center">
-   <img src="IMG_GIT/Teclado.gif">
+   <img src="IMG_GIT/Telcado.gif">
 </div>
 
 # CV_DylanSantiagoTrujilloRomero
 # Hoja de Vida
+<div align="right">
+   <img src="IMG_GIT/CODIGO.gif">
+</div>
 
 ## Dylan Santiago Trujillo Romero
 **Profesión:** Analista y Desarrollador de Software
