@@ -35,5 +35,6 @@
 - **Soy una persona motivada**
 - **Siempre mantengo una buena disposicion para aprender y colaborar**
 - **Analiso los problemas y busco la solución más acorde**
+- -**Trabajo en equipo**
 
 
